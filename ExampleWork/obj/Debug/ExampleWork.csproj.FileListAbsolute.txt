@@ -1,0 +1,13 @@
+C:\Users\enriq\source\repos\ExampleWork\ExampleWork\bin\Debug\ExampleWork.exe.config
+C:\Users\enriq\source\repos\ExampleWork\ExampleWork\bin\Debug\ExampleWork.exe
+C:\Users\enriq\source\repos\ExampleWork\ExampleWork\bin\Debug\ExampleWork.pdb
+C:\Users\enriq\source\repos\ExampleWork\ExampleWork\obj\Debug\ExampleWork.csproj.AssemblyReference.cache
+C:\Users\enriq\source\repos\ExampleWork\ExampleWork\obj\Debug\ExampleWork.Form1.resources
+C:\Users\enriq\source\repos\ExampleWork\ExampleWork\obj\Debug\ExampleWork.Form2.resources
+C:\Users\enriq\source\repos\ExampleWork\ExampleWork\obj\Debug\ExampleWork.Properties.Resources.resources
+C:\Users\enriq\source\repos\ExampleWork\ExampleWork\obj\Debug\ExampleWork.csproj.GenerateResource.cache
+C:\Users\enriq\source\repos\ExampleWork\ExampleWork\obj\Debug\ExampleWork.csproj.CoreCompileInputs.cache
+C:\Users\enriq\source\repos\ExampleWork\ExampleWork\obj\Debug\ExampleWork.exe
+C:\Users\enriq\source\repos\ExampleWork\ExampleWork\obj\Debug\ExampleWork.pdb
+C:\Users\enriq\source\repos\ExampleWork\ExampleWork\obj\Debug\ExampleWork.Form3.resources
+C:\Users\enriq\source\repos\ExampleWork\ExampleWork\obj\Debug\ExampleWork.Form4.resources
