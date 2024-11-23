@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ExampleWork/Form3.Designer.cs
+/ExampleWork/Form3.resx
+/.vs/ExampleWork/FileContentIndex/dfb4c4a8-1ca3-41a8-970b-952f5e2586ad.vsidx
+/.vs/ExampleWork/FileContentIndex/fa743015-3bef-4f3c-bab2-de169a89ad0c.vsidx
+/.vs/ExampleWork/FileContentIndex/f43e6b22-032a-4ab9-a4ca-38184414a1c9.vsidx
+/ExampleWork/obj/Debug/ExampleWork.Form1.resources
+/ExampleWork/obj/Debug/ExampleWork.Form3.resources
+/ExampleWork/obj/Debug/ExampleWork.Form4.resources
+/ExampleWork/obj/Debug/ExampleWork.Form2.resources
+/ExampleWork/Form1.cs
+/ExampleWork/Form1.resx
+/ExampleWork/Form1.Designer.cs
+/ExampleWork/Form2.Designer.cs
+/ExampleWork/Form2.resx
+/ExampleWork/Form4.cs
+/ExampleWork/Form3.cs
+/ExampleWork/Form2.cs
+/ExampleWork/Form4.resx
+/ExampleWork/Form4.Designer.cs
