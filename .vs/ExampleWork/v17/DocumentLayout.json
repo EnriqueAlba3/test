@@ -1,38 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\enriq\\source\\repos\\ExampleWork\\",
+  "WorkspaceRootPath": "C:\\Users\\ericf\\test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|C:\\Users\\enriq\\source\\repos\\ExampleWork\\examplework\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|c:\\users\\ericf\\test\\examplework\\add_inventory_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\add_inventory_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|c:\\users\\enriq\\source\\repos\\examplework\\examplework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|C:\\Users\\ericf\\test\\examplework\\delete_task_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\delete_task_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|C:\\Users\\enriq\\source\\repos\\ExampleWork\\examplework\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|C:\\Users\\ericf\\test\\examplework\\add_task_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\add_task_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|C:\\Users\\enriq\\source\\repos\\ExampleWork\\examplework\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|C:\\Users\\ericf\\test\\examplework\\main_menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\main_menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|C:\\Users\\enriq\\source\\repos\\ExampleWork\\examplework\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|C:\\Users\\ericf\\test\\examplework\\main_menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\main_menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|C:\\Users\\enriq\\source\\repos\\ExampleWork\\examplework\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|C:\\Users\\ericf\\test\\examplework\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|C:\\Users\\enriq\\source\\repos\\ExampleWork\\examplework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|C:\\Users\\ericf\\test\\examplework\\task_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\task_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|C:\\Users\\enriq\\source\\repos\\ExampleWork\\examplework\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|C:\\Users\\ericf\\test\\examplework\\modify_stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\modify_stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|C:\\Users\\ericf\\test\\examplework\\modify_stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\modify_stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|C:\\Users\\ericf\\test\\examplework\\remove_inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\remove_inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|C:\\Users\\ericf\\test\\examplework\\add_inventory_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\add_inventory_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|C:\\Users\\ericf\\test\\examplework\\task_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\task_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|C:\\Users\\ericf\\test\\examplework\\add_task_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\add_task_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|C:\\Users\\ericf\\test\\examplework\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABC8B06B-4CDF-404D-957E-CA3E68811602}|ExampleWork\\ExampleWork.csproj|solutionrelative:examplework\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,105 +66,173 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\ExampleWork\\ExampleWork\\Form2.cs",
-              "RelativeDocumentMoniker": "ExampleWork\\Form2.cs",
-              "ToolTip": "C:\\Users\\enriq\\source\\repos\\ExampleWork\\ExampleWork\\Form2.cs",
-              "RelativeToolTip": "ExampleWork\\Form2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Title": "Add_Inventory_Page.cs",
+              "DocumentMoniker": "C:\\Users\\ericf\\test\\ExampleWork\\Add_Inventory_Page.cs",
+              "RelativeDocumentMoniker": "ExampleWork\\Add_Inventory_Page.cs",
+              "ToolTip": "C:\\Users\\ericf\\test\\ExampleWork\\Add_Inventory_Page.cs",
+              "RelativeToolTip": "ExampleWork\\Add_Inventory_Page.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T06:40:08.026Z",
+              "WhenOpened": "2024-11-21T02:58:33.787Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\ExampleWork\\ExampleWork\\Form1.cs",
-              "RelativeDocumentMoniker": "ExampleWork\\Form1.cs",
-              "ToolTip": "C:\\Users\\enriq\\source\\repos\\ExampleWork\\ExampleWork\\Form1.cs",
-              "RelativeToolTip": "ExampleWork\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T06:24:13.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form4.cs",
-              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\ExampleWork\\ExampleWork\\Form4.cs",
-              "RelativeDocumentMoniker": "ExampleWork\\Form4.cs",
-              "ToolTip": "C:\\Users\\enriq\\source\\repos\\ExampleWork\\ExampleWork\\Form4.cs",
-              "RelativeToolTip": "ExampleWork\\Form4.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T06:46:18.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form4.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\ExampleWork\\ExampleWork\\Form4.cs",
-              "RelativeDocumentMoniker": "ExampleWork\\Form4.cs",
-              "ToolTip": "C:\\Users\\enriq\\source\\repos\\ExampleWork\\ExampleWork\\Form4.cs [Design]",
-              "RelativeToolTip": "ExampleWork\\Form4.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T06:42:40.89Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\ExampleWork\\ExampleWork\\Form3.cs",
-              "RelativeDocumentMoniker": "ExampleWork\\Form3.cs",
-              "ToolTip": "C:\\Users\\enriq\\source\\repos\\ExampleWork\\ExampleWork\\Form3.cs",
-              "RelativeToolTip": "ExampleWork\\Form3.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Title": "Main_menu1.cs",
+              "DocumentMoniker": "C:\\Users\\ericf\\test\\ExampleWork\\Main_menu1.cs",
+              "RelativeDocumentMoniker": "ExampleWork\\Main_menu1.cs",
+              "ToolTip": "C:\\Users\\ericf\\test\\ExampleWork\\Main_menu1.cs",
+              "RelativeToolTip": "ExampleWork\\Main_menu1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T06:37:29.687Z"
+              "WhenOpened": "2024-11-21T03:04:45.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\ExampleWork\\ExampleWork\\Form1.cs",
-              "RelativeDocumentMoniker": "ExampleWork\\Form1.cs",
-              "ToolTip": "C:\\Users\\enriq\\source\\repos\\ExampleWork\\ExampleWork\\Form1.cs [Design]",
-              "RelativeToolTip": "ExampleWork\\Form1.cs [Design]",
+              "DocumentIndex": 3,
+              "Title": "Main_menu1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ericf\\test\\ExampleWork\\Main_menu1.cs",
+              "RelativeDocumentMoniker": "ExampleWork\\Main_menu1.cs",
+              "ToolTip": "C:\\Users\\ericf\\test\\ExampleWork\\Main_menu1.cs [Design]",
+              "RelativeToolTip": "ExampleWork\\Main_menu1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T06:07:53.191Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-21T03:04:43.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\ExampleWork\\ExampleWork\\Form2.cs",
-              "RelativeDocumentMoniker": "ExampleWork\\Form2.cs",
-              "ToolTip": "C:\\Users\\enriq\\source\\repos\\ExampleWork\\ExampleWork\\Form2.cs [Design]",
-              "RelativeToolTip": "ExampleWork\\Form2.cs [Design]",
+              "DocumentIndex": 9,
+              "Title": "Remove_Inventory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ericf\\test\\ExampleWork\\Remove_Inventory.cs",
+              "RelativeDocumentMoniker": "ExampleWork\\Remove_Inventory.cs",
+              "ToolTip": "C:\\Users\\ericf\\test\\ExampleWork\\Remove_Inventory.cs [Design]",
+              "RelativeToolTip": "ExampleWork\\Remove_Inventory.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T06:19:39.954Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-14T16:35:10.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Add_Inventory_Page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ericf\\test\\ExampleWork\\Add_Inventory_Page.cs",
+              "RelativeDocumentMoniker": "ExampleWork\\Add_Inventory_Page.cs",
+              "ToolTip": "C:\\Users\\ericf\\test\\ExampleWork\\Add_Inventory_Page.cs [Design]",
+              "RelativeToolTip": "ExampleWork\\Add_Inventory_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:34:52.578Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\enriq\\source\\repos\\ExampleWork\\ExampleWork\\Form3.cs",
-              "RelativeDocumentMoniker": "ExampleWork\\Form3.cs",
-              "ToolTip": "C:\\Users\\enriq\\source\\repos\\ExampleWork\\ExampleWork\\Form3.cs [Design]",
-              "RelativeToolTip": "ExampleWork\\Form3.cs [Design]",
+              "Title": "Loginpage.cs",
+              "DocumentMoniker": "C:\\Users\\ericf\\test\\ExampleWork\\Loginpage.cs",
+              "RelativeDocumentMoniker": "ExampleWork\\Loginpage.cs",
+              "ToolTip": "C:\\Users\\ericf\\test\\ExampleWork\\Loginpage.cs",
+              "RelativeToolTip": "ExampleWork\\Loginpage.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwEoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T06:29:28.054Z"
+              "WhenOpened": "2024-11-14T07:36:13.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Loginpage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ericf\\test\\ExampleWork\\Loginpage.cs",
+              "RelativeDocumentMoniker": "ExampleWork\\Loginpage.cs",
+              "ToolTip": "C:\\Users\\ericf\\test\\ExampleWork\\Loginpage.cs [Design]",
+              "RelativeToolTip": "ExampleWork\\Loginpage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:36:11.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add_Task_Page.cs",
+              "DocumentMoniker": "C:\\Users\\ericf\\test\\ExampleWork\\Add_Task_Page.cs",
+              "RelativeDocumentMoniker": "ExampleWork\\Add_Task_Page.cs",
+              "ToolTip": "C:\\Users\\ericf\\test\\ExampleWork\\Add_Task_Page.cs",
+              "RelativeToolTip": "ExampleWork\\Add_Task_Page.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwFIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:38:14.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Add_Task_Page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ericf\\test\\ExampleWork\\Add_Task_Page.cs",
+              "RelativeDocumentMoniker": "ExampleWork\\Add_Task_Page.cs",
+              "ToolTip": "C:\\Users\\ericf\\test\\ExampleWork\\Add_Task_Page.cs [Design]",
+              "RelativeToolTip": "ExampleWork\\Add_Task_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:38:10.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Modify_Stock.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ericf\\test\\ExampleWork\\Modify_Stock.cs",
+              "RelativeDocumentMoniker": "ExampleWork\\Modify_Stock.cs",
+              "ToolTip": "C:\\Users\\ericf\\test\\ExampleWork\\Modify_Stock.cs [Design]",
+              "RelativeToolTip": "ExampleWork\\Modify_Stock.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:08:56.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Modify_Stock.cs",
+              "DocumentMoniker": "C:\\Users\\ericf\\test\\ExampleWork\\Modify_Stock.cs",
+              "RelativeDocumentMoniker": "ExampleWork\\Modify_Stock.cs",
+              "ToolTip": "C:\\Users\\ericf\\test\\ExampleWork\\Modify_Stock.cs",
+              "RelativeToolTip": "ExampleWork\\Modify_Stock.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:10:08.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Task_Page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ericf\\test\\ExampleWork\\Task_Page.cs",
+              "RelativeDocumentMoniker": "ExampleWork\\Task_Page.cs",
+              "ToolTip": "C:\\Users\\ericf\\test\\ExampleWork\\Task_Page.cs [Design]",
+              "RelativeToolTip": "ExampleWork\\Task_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:15:09.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task_Page.cs",
+              "DocumentMoniker": "C:\\Users\\ericf\\test\\ExampleWork\\Task_Page.cs",
+              "RelativeDocumentMoniker": "ExampleWork\\Task_Page.cs",
+              "ToolTip": "C:\\Users\\ericf\\test\\ExampleWork\\Task_Page.cs",
+              "RelativeToolTip": "ExampleWork\\Task_Page.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:15:11.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete_Task_Page.cs",
+              "DocumentMoniker": "C:\\Users\\ericf\\test\\ExampleWork\\Delete_Task_Page.cs",
+              "RelativeDocumentMoniker": "ExampleWork\\Delete_Task_Page.cs",
+              "ToolTip": "C:\\Users\\ericf\\test\\ExampleWork\\Delete_Task_Page.cs",
+              "RelativeToolTip": "ExampleWork\\Delete_Task_Page.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwEcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:48:08.964Z"
             }
           ]
         }
